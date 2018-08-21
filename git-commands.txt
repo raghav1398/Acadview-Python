@@ -1,0 +1,15 @@
+1)git clone - it clones a repository into a newly created directory in the local database.
+
+2)git-status - Show the working tree status. First we have to change the working directory to the newly created or it will show a error.
+
+3)git-add -A - Add file contents to the repoistory.
+
+4)git commint -m "This is my first git commit" - This command is used to commit the change made in the file that is to be added to the repository.
+
+5)git push -u origin master - This command is used to update the repository the file that is to be added.
+
+6)git config --global user.name "afropv"
+
+7)git config --global user.email "pvadoga117@gmail.com"
+ 
+The Above to commands are used to tell the GIT about the iuser which is using the GIT and to whom this repository belongs to.
